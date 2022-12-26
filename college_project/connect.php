@@ -13,6 +13,7 @@ $Roll=$_POST['RollNumber'];
 $gender=$_POST['Gender'];
 $sem=$_POST['sem'];
 $phone=$_POST['phone'];
+    
 $branch=$_POST['branch'];
 
 $servername = "localhost:3306";
